@@ -5,10 +5,6 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👯 I’m looking to collaborate on [PyWeek33](https://github.com/robert-abraham/PyWeek-33-March)
-
-- 🤝 I’m looking for help with [Pyweek33](https://github.com/robert-abraham/PyWeek-33-March)
-
 - 👨‍💻 All of my projects are available at [https://github.com/robert-abraham/](https://github.com/robert-abraham/)
 
 
